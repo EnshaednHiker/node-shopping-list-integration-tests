@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: Ii12l5O+DnFTZUgHXI9Hce0vPwJ3Xs/3aIZhrHgD7fsMYyq3V9+JSom9u22ZqmxB1BVIT4AS9LQpSJB79+XH58CcHwH3WSM4YzhCASnfVx0zDE25UJXqz9046hD2YmldQ9+juPw/ywzVGt/XWcNQwWLLRdIh6zvFKy5aVCNi+duNB6dI/3WjNM4IoCt4Emik9RboU8VieTApdnlcXmhfLktcEOPaNsA+BJBW5OWsfcYxEu8rGBu6Q7H0ELXa4nygo+0udkaqoXx6XhW8a0U9cWGeURKdAP9GwPrWHGmZrvzs4ECcqZW3X1m/NoK0+OrFpA0ij2JvgrmNsGE32UI+xLPoMJ/FxYBzC/HcdziL0JPewOfXODbSkPjOWInSfe4u+Oe+HwuUvDlr0gn0Mfxa45w/XsVw9lAtCjZRvn8FbeIAST5jyRSZzaMkdHPKC5/SNY236YoabPCVuodjAxZMFuSeBuItyrVpGyGAvmFtVieZcnw2iCY5+6PevxCvIzAjjjCyoV6mhF7eMUnAma1Xnf+w65SNZxHSKw5ZEXXbi8qe6cM4+2GnzB1pqs86xCV/qAYYunFT+BFKNpwMUinPQ91cPclyU/JcCw4POemOJOHpvKN62GvdICp8fJcsOjlDpxA7w6NM0Jnn21cM5Jn45iUNeir/isxrVdxvzDHTh88=
-  app: infinite-woodland-61685
+  app: https://infinite-woodland-61685.herokuapp.com/
   on:
     repo: EnshaednHiker/node-shopping-list-integration-tests
