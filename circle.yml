@@ -8,4 +8,4 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: node-shopping-list
+      appname: node-shopping-list-integration-tests
