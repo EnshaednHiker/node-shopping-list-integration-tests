@@ -4,3 +4,8 @@ machine:
 dependencies:
   override:
     - npm install
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: node-shopping-list
