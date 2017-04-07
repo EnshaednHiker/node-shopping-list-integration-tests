@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: FEKvRSX5Qk51kpb0QkY24MNNNeDFzxsEhE7SW+9E9rO/2R7Yz2EG+2aVqH9S5wCpA+PaZQgZbTTJlG+aCEn6lqcJI3v2hRBA4opo2a9egj+wqwQkC5ML+mkDgX2RlQMfBpTdiBDCm+AXMoFH/pQef9S/rWN8LctVUmdrM9D6/UDto0i+EuIv2stY+8kB6Wo7TMn+I0xPkRtkzoykNbJLwMsku7M5+braBZKukvEirQL4jbZZigNf2eJCvtwF6A1HcWND9tBbu2ywJNqPxt7/x8KQGVdzAxXEQpJliWN4ZrpjE+NMpSpZIWfaVclR9wUqBOURC29g/gtBZ0PAWWNjoFPf/d7JSfCi76mwRrdq6NMeZm25PkhgynczuHy3MBsT/Qf03Oo6GnvCma37qIUhp8iNDzVYOR2Fs59d7D9Xed6Ekf5Tw78ulTZI1uAYRfynszzyKYW/I6mGoE+VgZib5HT0U1k4+OSVySgj2d9JWigl2t8GsIj0KR8E65dkM7GigHACaGsk5LGjHIOdv77/9dPL8x312B3FYRiMXOaLNw4XURJW6U/yIUTbnjOdZhjSl3iQjXjUUKxsWqQfzUWgn8T2Xs8lX8Yj6fcofifjdr0UNIJcbEWygOg4SYuOiguYjIhjj1UFyctoYhwKMbmQZ80mtMgaWZtLrsfGl83EzU4=
-  app: node-shopping-list-integration-tests
+  app: lit-castle-31226
   on:
     repo: EnshaednHiker/node-shopping-list-integration-tests
